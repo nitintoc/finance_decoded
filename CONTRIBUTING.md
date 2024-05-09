@@ -1,1 +1,1 @@
-Lets collaborate on analyzing the stock market data and make powerful predictions using AI.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
